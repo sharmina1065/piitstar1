@@ -1,2 +1,4 @@
 This is my test for git up updating file git diff command
 
+Adding another line
+
